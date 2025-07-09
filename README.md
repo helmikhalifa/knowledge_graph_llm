@@ -6,7 +6,7 @@ This project demonstrates how to build a knowledge graph from a given text using
 
 Below is a visualization of the knowledge graph generated from a text about Albert Einstein. The graph is interactive, and you can explore the relationships between different entities. 🌐
 
-![Knowledge Graph Visualization](https://github.com/user-attachments/assets/657eaf33-eb0f-4048-ac1d-0f2f4b39189a)
+![Knowledge Graph Visualization](https://github.com/user-attachments/assets/b616280d-d1f9-409d-93ac-a0503ba1c9fa)
 *A snapshot of the interactive knowledge graph visualization from `gemini_knowledge_graph.html`.*
 
 ## ⚙️ How it Works
